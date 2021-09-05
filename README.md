@@ -9,7 +9,10 @@
 - ⚡ Fun fact: I like to collect coins.
 
 
-<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=Nowshin1077&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=Nowshin1077&show_icons=true&theme=radical"  />
+
+<p><img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nowshin1077&" alt="nowshin1077" /></p>
+
 
 
 
