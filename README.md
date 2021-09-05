@@ -1,7 +1,7 @@
 ### Hi there, I am Nowshin 👋
 
 - 🔭 I’m currently working on Capstone Project.
-- 🌱 I’m currently learning Machine Larning.
+- 🌱 I’m currently learning ML and DL.
 - 🤔 I’m looking for help with Android Development.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: ibnatkdb@gmail.com
