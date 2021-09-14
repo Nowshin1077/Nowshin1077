@@ -1,6 +1,6 @@
 ### Hi there, I am Nowshin 👋
 
-- 🔭 I’m currently working on Capstone Project.
+- 🔭 I’m currently working on Some Academic Projects.
 - 🌱 I’m currently learning ML and DL.
 - 🤔 I’m looking for help with Android Development.
 - 💬 Ask me about any tech related stuff.
