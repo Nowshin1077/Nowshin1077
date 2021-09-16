@@ -2,11 +2,11 @@
 <h3 align="center">A final year undergraduate student.</h3>
 
 
-- 🔭 I’m currently working on **some academic projects.**
+I’m currently working on **some academic projects.**
 
-- 🌱 I’m currently learning **ML and DL.**
+I’m currently learning **ML and DL.**
 
-- 📫 Reach me via Email **ibnatkdb@gmail.com**
+Reach me via Email **ibnatkdb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
