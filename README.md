@@ -6,7 +6,7 @@ I’m currently working on **some academic projects.**
 
 I’m currently learning **ML and DL.**
 
-Reach me via Email **ibnatkdb@gmail.com**
+Reach me via email **ibnatkdb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
