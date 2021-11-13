@@ -1,14 +1,14 @@
-<h1 align="center">Hello 👋, I'm Nowshin!</h1>
-<h3 align="center">A final year undergraduate student.</h3>
+// <h1 align="center">Hello 👋, I'm Nowshin!</h1>
+// <h3 align="center">A final year undergraduate student.</h3>
 
 
-I’m currently working on **some academic projects.**
+// I’m currently working on **some academic projects.**
 
-I’m currently learning **ML and DL.**
+// I’m currently learning **ML and DL.**
 
-Reach me via email **ibnatkdb@gmail.com**
+// Reach me via email **ibnatkdb@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+// <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nowshin1077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nowshin1077" height="30" width="40" /></a>
 <a href="https://fb.com/nowshin1077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nowshin1077" height="30" width="40" /></a>
