@@ -13,4 +13,4 @@
 </p>
 <br>
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nowshin1077&custom_title=nowshin1077%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://nowshin1077.dev)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nowshin1077&custom_title=Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://nowshin1077.dev)
