@@ -1,4 +1,4 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=nowshin1077&label=Profile%20views&color=0e75b6&style=flat" alt="nowshin1077"> 
+<img align ="right" src="https://komarev.com/ghpvc/?username=Nowshin1077&label=Profile%20views&color=0e75b6&style=flat" alt="Nowshin1077"> 
 <h1 align="center">Hello, I'm Nowshin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+Undergrad+Student;Learning%20and%20growing&center=true&width=500&height=50"></a>
@@ -6,11 +6,11 @@
 
 <br/>
 <p align="left">
-  <a href="https://nowshin1077.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nowshin1077&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nowshin1077&theme=gruvbox&hide_border=true" />
+  <a href="https://Nowshin1077.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nowshin1077&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nowshin1077&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nowshin1077&custom_title=Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://nowshin1077.dev)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nowshin1077&custom_title=Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Nowshin1077.dev)
