@@ -1,6 +1,7 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=Nowshin1077&label=Profile%20views&color=0e75b6&style=flat" alt="Nowshin1077"> 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="50" /> Hello, I'm Nowshin! 
+<h2> align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> Hello, I'm Nowshin! 
 <p align="center">
+  
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+Undergrad+Student;Learning%20and%20growing&center=true&width=500&height=50"></a>
 </p>
 
