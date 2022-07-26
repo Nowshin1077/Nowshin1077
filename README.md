@@ -6,7 +6,7 @@
 - 🎓 I am a final year Computer Science and Engineering student
 - 💻 I am acquainted with **Python - Flask,C/C++, HTML, CSS, PHP**
 - 📙 I am acquainted with DSA
-- 💻 Im currently learning **Deep Learning**
+- 💻 I am currently learning **Deep Learning**
 - 📩 ibnatkdb@gmail.com
 
 
