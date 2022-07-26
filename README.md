@@ -4,6 +4,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+Undergrad+Student;Learning%20and%20growing&center=true&width=500&height=50"></a>
 </p>
 
+
+- 🎓 I am a final year Computer Science and Engineering student
+- 💖 I love **Python**
+- 💻 I am acquainted with **Python - Flask,C++/C, HTML, CSS, PHP**
+- 📈 I am an Upcoming Technology Analyst Intern [@MorganStanley](https://www.morganstanley.com/)
+- 📙 Acquainted with in DSA
+- 💻 Im currently learning **Deep Learning**
+
+
 <br/>
 <p align="left">
   <a href="https://Nowshin1077.dev/">
