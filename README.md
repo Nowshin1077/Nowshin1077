@@ -3,7 +3,7 @@
   
 
 
-- 🎓 I am a final year Computer Science and Engineering student
+- 🎓 I am a final year Computer Science and Engineering Student
 - 💻 I am acquainted with **Python - Flask,C/C++, HTML, CSS, PHP**
 - 📙 I am acquainted with DSA
 - 💻 I am currently learning **Deep Learning**
