@@ -2,7 +2,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> Hello, I'm Nowshin! </h2>
   
 
-
 - 🎓 Final year Computer Science and Engineering Student
 - 💻 Acquainted with **Python - Flask,C/C++, HTML, CSS, PHP**
 - 📙 Acquainted with DSA
@@ -19,7 +18,6 @@
   </a>
 </p>
 <br>
-
 
 
 <h2>Reach out to me</h2>
