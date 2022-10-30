@@ -6,7 +6,7 @@
 - 💻 Acquainted with **Python - Flask,C/C++, HTML, CSS, PHP**
 - 📙 Acquainted with DSA
 - 💻 Currently learning **Deep Learning**
-- 🎯 I love to contribute to the open source community and contribute to the open source projects
+- 🎯 I love to contribute to the open source community and open source projects
 - 📩 ibnatkdb@gmail.com
 
 
