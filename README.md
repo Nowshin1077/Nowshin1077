@@ -1,7 +1,7 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=Nowshin1077&label=Profile%20views&color=0e75b6&style=flat" alt="Nowshin1077"> 
 <h2 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> Hello, I'm Nowshin! </h2>
   
-Enthusiastic about problem-solving | keen interest in AI, ML, DL, and IoT 
+Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud Computing | Quick learner
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,8 +41,9 @@ Enthusiastic about problem-solving | keen interest in AI, ML, DL, and IoT
 - AcquAcquainted with: OOP, DSA, PHP, Java, C#, HTML, CSS, MongoDB, Oracle, PostgreSQL, Linux
 - Not an opensource enthusiast but like to contribute to open source projects.
 -------------------------------------------------------------------------------------------------------------------------------------------
-** My Current State: **
-Learning **Deep Learning** and doing some courses, practice projects. Also narturing my problem solving skill.
+▶️ My Current State: 
+---------------------
+Learning **Deep Learning** and doing some courses, practice projects. Also nurturing my problem solving skill.
 All of my undergrad cources are completed but my final year but undergraduate project is still ongoing. Hopefully our team will give defence very soon.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
