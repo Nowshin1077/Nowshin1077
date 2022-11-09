@@ -5,6 +5,28 @@ Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+| 🏠 From  |🎓Undergrad | 📸 Pictures can tell stories(You may not see it!) |  👩‍💻 W & T(wanted to inspire my other female classmates) |
+| ------------- | -------------  | ------------- | ------------- |
+|Dhaka,Bangladesh | CSE,BUBT | https://www.flickr.com/photos/nowshin1077/ | https://wandt20.wordpress.com/ |
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+👩‍💻 Tools and Technologies:
+- Languages: Python, C, C++
+- Python Library: Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+- Database: SQL
+- Version Control: GitHub
+- Concepts: SDLC, Agile Methodology
+- Operating System: Windows
+- Project Management Tool: Trello
+- AcquAcquainted with: OOP, DSA, PHP, Java, C#, HTML, CSS, MongoDB, Oracle, PostgreSQL, Linux
+- Not an opensource enthusiast but like to contribute to open source projects.
+-------------------------------------------------------------------------------------------------------------------------------------------
+▶️ My Current State: 
+---------------------
+Learning **Deep Learning** as well as doing some courses, and practice projects. Also nurturing my problem-solving skill.
+All of my undergrad courses are completed but my final year undergraduate project is still ongoing. Hopefully, our team will give defense very soon.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 <h2>Reach out to me</h2>
 
 <p align="center">
@@ -24,27 +46,6 @@ Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud 
 <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>  
 </p> 
-
-
-| 🏠 From  |🎓Undergrad | 📸 Pictures can tell stories(You may not see it!) |  👩‍💻 W & T(wanted to inspire my other female classmates) |
-| ------------- | -------------  | ------------- | ------------- |
-|Dhaka,Bangladesh | CSE,BUBT | https://www.flickr.com/photos/nowshin1077/ | https://wandt20.wordpress.com/ |
-
--------------------------------------------------------------------------------------------------------------------------------------------
-- Languages: Python, C, C++
-- Python Library: Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn
-- Database: SQL
-- Version Control: GitHub
-- Concepts: SDLC, Agile Methodology
-- Operating System: Windows
-- Project Management Tool: Trello
-- AcquAcquainted with: OOP, DSA, PHP, Java, C#, HTML, CSS, MongoDB, Oracle, PostgreSQL, Linux
-- Not an opensource enthusiast but like to contribute to open source projects.
--------------------------------------------------------------------------------------------------------------------------------------------
-▶️ My Current State: 
----------------------
-Learning **Deep Learning** as well as doing some courses, and practice projects. Also nurturing my problem-solving skill.
-All of my undergrad courses are completed but my final year undergraduate project is still ongoing. Hopefully, our team will give defense very soon.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 <br/>
