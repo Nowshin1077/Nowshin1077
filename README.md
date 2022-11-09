@@ -43,8 +43,8 @@ Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud 
 -------------------------------------------------------------------------------------------------------------------------------------------
 ▶️ My Current State: 
 ---------------------
-Learning **Deep Learning** and doing some courses, practice projects. Also nurturing my problem solving skill.
-All of my undergrad cources are completed but my final year but undergraduate project is still ongoing. Hopefully our team will give defence very soon.
+Learning **Deep Learning** as well as doing some courses, and practice projects. Also nurturing my problem-solving skill.
+All of my undergrad courses are completed but my final year undergraduate project is still ongoing. Hopefully, our team will give defense very soon.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 <br/>
