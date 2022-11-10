@@ -20,7 +20,7 @@ Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud 
 - Operating System: Windows
 - Project Management Tool: Trello
 - Acquainted with: OOP, DSA, PHP, Java, C#, HTML, CSS, MongoDB, Oracle, PostgreSQL, Linux
-- Not an opensource enthusiast but like to contribute to open source projects.
+- Open source explorer
 -------------------------------------------------------------------------------------------------------------------------------------------
 ▶️ My Current State: 
 ---------------------
