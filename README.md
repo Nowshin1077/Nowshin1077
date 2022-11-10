@@ -19,13 +19,13 @@ Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud 
 - Concepts: SDLC, Agile Methodology
 - Operating System: Windows
 - Project Management Tool: Trello
-- AcquAcquainted with: OOP, DSA, PHP, Java, C#, HTML, CSS, MongoDB, Oracle, PostgreSQL, Linux
+- Acquainted with: OOP, DSA, PHP, Java, C#, HTML, CSS, MongoDB, Oracle, PostgreSQL, Linux
 - Not an opensource enthusiast but like to contribute to open source projects.
 -------------------------------------------------------------------------------------------------------------------------------------------
 ▶️ My Current State: 
 ---------------------
-Learning **Deep Learning** as well as doing some courses, and practice projects. Also nurturing my problem-solving skill.
-All of my undergrad courses are completed but my final year undergraduate project is still ongoing. Hopefully, our team will give defense very soon.
+Learning **Deep Learning** as well as doing some courses, and practice projects. I am also nurturing my problem-solving skill.
+All of my undergrad courses are completed but my final year project is still ongoing. Hopefully, our team will give defense very soon.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
