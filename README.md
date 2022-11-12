@@ -5,9 +5,12 @@ Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-| From  🏠 | Undergrad 🎓| W & T(wanted to inspire my other female classmates)👩‍💻| 📫 How to reach me |
+| From  🏠 | Undergrad 🎓| W & T(wanted to inspire my other female classmates)👩‍💻| Picture can tell stories!📸 |
 | ------------- | ------------- | ------------- | ------------- | 
-|Dhaka,Bangladesh | CSE,BUBT | https://wandt20.wordpress.com/ | ibnatkdb@gmail.com |
+|Dhaka,Bangladesh | CSE,BUBT | https://wandt20.wordpress.com/ | ibnatkdb@gmail.com | https://www.flickr.com/photos/nowshin1077/ |
+
+
+📫 How to reach me: ibnatkdb@gmail.com
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 💻 Tools and Technologies:
