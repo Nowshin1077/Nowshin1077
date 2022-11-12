@@ -2,13 +2,12 @@
 <h2 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> Hello, I'm Nowshin! </h2>
   
 Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud Computing | Quick learner
-
 📫 How to reach me: ibnatkdb@gmail.com
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-| From  🏠 | Undergrad 🎓| Pictures can tell stories(You may not see it!) 📸 | W & T(wanted to inspire my other female classmates)👩‍💻|
-| ------------- | -------------  | ------------- | ------------- |
-|Dhaka,Bangladesh | CSE,BUBT | https://www.flickr.com/photos/nowshin1077/ | https://wandt20.wordpress.com/ |
+| From  🏠 | Undergrad 🎓| Pictures can tell stories(You may not see it!) 📸 | W & T(wanted to inspire my other female classmates)👩‍💻| 📫 How to reach me |
+| ------------- | -------------  | ------------- | ------------- | ------------- | 
+|Dhaka,Bangladesh | CSE,BUBT | https://www.flickr.com/photos/nowshin1077/ | https://wandt20.wordpress.com/ | ibnatkdb@gmail.com |
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 💻 Tools and Technologies:
