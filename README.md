@@ -3,6 +3,7 @@
   
 Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud Computing | Quick learner
 
+📫 How to reach me: ibnatkdb@gmail.com
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 | From  🏠 | Undergrad 🎓| Pictures can tell stories(You may not see it!) 📸 | W & T(wanted to inspire my other female classmates)👩‍💻|
@@ -40,7 +41,7 @@ soon and we will be able to publish research paper based on our final year work.
 <br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-<h2>Reach out to me</h2>
+<h2>My Handles</h2>
 
 <p align="center">
 <a href="https://github.com/Nowshin1077" target="_blank">
