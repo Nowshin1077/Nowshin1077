@@ -1,7 +1,7 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=Nowshin1077&label=Profile%20views&color=0e75b6&style=flat" alt="Nowshin1077"> 
 <h2 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> Hello, I'm Nowshin! </h2>
   
-| Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud Computing | Quick learner | 
+         Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud Computing | Quick learner  
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
