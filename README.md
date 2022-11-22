@@ -28,8 +28,6 @@
 ▶️ My Current State: 
 ---------------------
 Learning **Deep Learning** as well as doing some courses, and practice projects. I am also nurturing my problem-solving skill.
-All of my undergrad courses are completed but my final year project is still ongoing. Hopefully, our team will give defense very 
-soon and we will be able to publish research paper based on our final year work.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
