@@ -5,7 +5,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-| From  🏠 | Undergrad 🎓| W & T(wanted to inspire my other female classmates)👩‍💻| Chess Newbie ♟️|
+| From  🏠 | Undergrad 🎓| W & T(wanted to inspire my classmates)👩‍💻| Chess Newbie ♟️|
 | ------------- | ------------- | ------------- | ------------- | 
 |Dhaka,Bangladesh | CSE,BUBT | https://wandt20.wordpress.com/ |  https://www.chess.com/member/nowshin1077 |
 
