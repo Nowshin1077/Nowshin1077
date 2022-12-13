@@ -10,7 +10,7 @@
 |Dhaka,Bangladesh | CSE,BUBT | https://wandt20.wordpress.com/ |  https://www.chess.com/member/nowshin1077 |
 
 
-📫 How to reach me: nowshin1077@gmail.com
+📫 Reach me: nowshin1077@gmail.com
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 💻 Tools and Technologies:
