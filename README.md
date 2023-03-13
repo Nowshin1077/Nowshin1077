@@ -17,6 +17,7 @@
 ---------------------------
 - Languages: Python, C, C++
 - Python Library: Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+- Python Framework: Flask
 - Database: SQL
 - Version Control: GitHub
 - Concepts: SDLC, Agile Methodology
