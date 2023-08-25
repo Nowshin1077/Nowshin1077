@@ -5,13 +5,16 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-| From  🏠 | Undergrad 🎓| W & T(wanted to inspire my female classmates)👩‍💻| Chess Newbie ♟️|
+| From  🏠 | Undergrad 🎓| W & T(wanted to inspire my female classmates)👩‍💻| Chess Newbie ♟️| 
 | ------------- | ------------- | ------------- | ------------- | 
-|Dhaka,Bangladesh | CSE,BUBT | https://wandt20.wordpress.com/ |  https://www.chess.com/member/nowshin1077 |
+|Dhaka,Bangladesh | CSE,BUBT | https://wandt20.wordpress.com/ |  https://www.chess.com/member/nowshin1077 | 
 
 
 📫 Reach me: nowshin1077@gmail.com
-📸 Interesting fact about me: I like to tell stories by clicking pictures (https://www.flickr.com/people/nowshin1077/)
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+📸 Interesting fact about me: I like to click pictures! --> https://www.flickr.com/people/nowshin1077/
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 💻 Tools and Technologies:
 ---------------------------
