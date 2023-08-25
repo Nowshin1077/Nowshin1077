@@ -11,7 +11,7 @@
 
 
 📫 Reach me: nowshin1077@gmail.com
-
+📸 Interesting fact about me: I like to tell stories by clicking pictures (https://www.flickr.com/people/nowshin1077/)
 -------------------------------------------------------------------------------------------------------------------------------------------
 💻 Tools and Technologies:
 ---------------------------
