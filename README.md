@@ -20,13 +20,9 @@
 ---------------------------
 - Languages: Python, C, C++
 - Python Library: Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn
-- Python Framework: Flask
+- Backend Framework: Flask
 - Database: SQL
-- Version Control: GitHub
-- Concepts: SDLC, Agile Methodology
-- Operating System: Windows
-- Project Management Tool: Trello
-- Acquainted with: OOP, DSA, PHP, Java, C#, HTML, CSS, MongoDB, Oracle, PostgreSQL, Linux
+- Version Control: Git
 - Open source explorer
 -------------------------------------------------------------------------------------------------------------------------------------------
 ▶️ My Current State: 
