@@ -1,6 +1,7 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=Nowshin1077&label=Profile%20views&color=0e75b6&style=flat" alt="Nowshin1077"> 
-<h2 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> Hello, I'm Nowshin! </h2>
-  
+<!--- <img align ="right" src="https://komarev.com/ghpvc/?username=Nowshin1077&label=Profile%20views&color=0e75b6&style=flat" alt="Nowshin1077">  --->
+<!--- <h2 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> Hello, I'm Nowshin! </h2> -->
+<h2 align="center"> Hello, I'm Nowshin! </h2>
+
          Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud Computing | Fast learner  
 
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -29,7 +30,7 @@
 ---------------------
 Learning **Deep Learning** as well as doing some courses, and practice projects. I am also nurturing my problem-solving skill.
 
--------------------------------------------------------------------------------------------------------------------------------------------
+<!--- -------------------------------------------------------------------------------------------------------------------------------------------
 
 <br/>
 <p align="left">
@@ -44,9 +45,6 @@ Learning **Deep Learning** as well as doing some courses, and practice projects.
 <h2>My Handles</h2>
 
 <p align="center">
-<a href="https://github.com/Nowshin1077" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/nowshin1077" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -61,4 +59,4 @@ Learning **Deep Learning** as well as doing some courses, and practice projects.
 </a>  
 </p> 
 
-
+--->
