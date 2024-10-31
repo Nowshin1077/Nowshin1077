@@ -37,7 +37,18 @@ Trying to make quality contributions to open-source projects. Apart from that le
 
 ### 🚀 My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nowshin1077&theme=tokyonight) ![Nowshin1077's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nowshin1077&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true) 
+<!-- Option 1: Using HTML table (Most reliable) -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowshin1077&theme=tokyonight" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nowshin1077&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
