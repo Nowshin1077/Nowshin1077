@@ -37,8 +37,7 @@ Learning **Data Science** as well as doing some courses, and practice projects. 
 
 ### 🚀 My Stats
 
-![Nowshin1077's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nowshin1077&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nowshin1077&theme=tokyonight)
+![Nowshin1077's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nowshin1077&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nowshin1077&theme=tokyonight)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
