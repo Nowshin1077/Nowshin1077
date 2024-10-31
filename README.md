@@ -1,5 +1,8 @@
 <!--- <img align ="right" src="https://komarev.com/ghpvc/?username=Nowshin1077&label=Profile%20views&color=0e75b6&style=flat" alt="Nowshin1077">  --->
 <!--- <h2 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> Hello, I'm Nowshin! </h2> -->
+
+ ![Profile Views](https://komarev.com/ghpvc/?username=Nowshin1077&color=blue)
+
 <h2 align="center"> Hello, I'm Nowshin! </h2>
 
          Enthusiastic about problem-solving | Keen interest in AI, ML, DL, IoT and Cloud Computing | Fast learner  
@@ -29,6 +32,26 @@
 ▶️ My Current State: 
 ---------------------
 Learning **Data Science** as well as doing some courses, and practice projects. I am also nurturing my problem-solving skill.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🚀 My Stats
+
+![Nowshin1077's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nowshin1077&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nowshin1077&theme=tokyonight)
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+👋 If you liked my README profile then please give it a star and feel free to use this template for you.
+
+
+
+
+
+
+
+
+
 
 <!--- -------------------------------------------------------------------------------------------------------------------------------------------
 
