@@ -28,7 +28,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------
 ▶️ My Current State: 
 ---------------------
-Learning **Deep Learning** as well as doing some courses, and practice projects. I am also nurturing my problem-solving skill.
+Learning **Data Science** as well as doing some courses, and practice projects. I am also nurturing my problem-solving skill.
 
 <!--- -------------------------------------------------------------------------------------------------------------------------------------------
 
