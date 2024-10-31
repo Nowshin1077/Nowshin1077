@@ -51,10 +51,6 @@ Trying to make quality contributions to open-source projects. Apart from that le
 </table>
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-
-👋 If you liked my README profile then please give it a star and feel free to use this template for you.
-
--------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align="center"> My Handles </h2>
 
 <p align="center">
@@ -71,3 +67,10 @@ Trying to make quality contributions to open-source projects. Apart from that le
     <img src="https://img.shields.io/badge/stackoverflow-%23F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white&color=ff9dcd" alt="Stack Overflow" />
   </a>
 </p>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+👋 If you liked my README profile then please give it a star and feel free to use this template for you.
+
+
