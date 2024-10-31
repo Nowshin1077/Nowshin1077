@@ -28,12 +28,12 @@
 - Database: SQL
 - Version Control: Git
 - Open source explorer
--------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 ▶️ My Current State: 
 ---------------------
-Learning **Data Science** as well as doing some courses, and practice projects. I am also nurturing my problem-solving skill.
+Trying to make quality contributions to open-source projects. Apart from that learning **Data Science** also nurturing my problem-solving skills.
 
--------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🚀 My Stats
 
