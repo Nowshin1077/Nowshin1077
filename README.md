@@ -32,7 +32,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ▶️ My Current State: 
 ---------------------
-Trying to make quality contributions to open-source projects. Apart from that learning **Data Science** also nurturing my problem-solving skills.
+A curious wanderer, navigating the labyrinth of Open-source ＞﹏＜
+On a mission to make quality contributions. Apart from that learning **Data Science** also nurturing my problem-solving skills.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
