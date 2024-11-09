@@ -9,7 +9,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-| From 🏠 | Undergrad 🎓| Made this to inspire my female classmates)👩‍💻| Some clicks 📸 | 
+| From 🏠 | Undergrad 🎓| Made this to inspire my female classmates 👩‍💻| Some clicks 📸 | 
 | ------------- | ------------- | ------------- | ------------- | 
 |Dhaka,Bangladesh | CSE,BUBT | https://wandt20.wordpress.com/ |  https://www.flickr.com/people/nowshin1077/ | 
 
@@ -40,10 +40,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowshin1077&theme=tokyonight" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowshin1077&theme=dracula" alt="GitHub Streak"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nowshin1077&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nowshin1077&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
