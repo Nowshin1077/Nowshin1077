@@ -2,10 +2,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nowshin1077&color=blue" alt="Profile Views">
 </p>
-<h2 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> Hello, I'm Nowshin! </h2> 
+<h2 align="center"> Hello, I'm Nowshin! </h2> 
 
-
-         Problem-solving enthusiast | Emerging tech interest: DS, NLP, HCI | Fast learner  
+                     Problem-solving enthusiast | Emerging tech interest: DS, NLP, HCI | Fast learner  
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -15,6 +14,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
+
 ### 💻 Tools and Technologies
 
 - Languages: `Python`, `C`, `C++`
@@ -22,14 +22,14 @@
 - Backend Framework: `Flask`
 - Database: `SQL`
 - Version Control: `Git`
-- Open source: current project `Scribe-Data`
+- Open source: not working on any project currently.
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ▶️ My Current State 
 
-  - On a mission to make `quality contributions`. 
-  - Obtaining `Data Science` certifications.
+  - On a mission to make `quality contributions` in open source projects. 
+  - Obtaining certifications to build a career in `Data-centric roles`. 
   - Nurturing my `problem-solving` skills.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -40,10 +40,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowshin1077&theme=dracula" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowshin1077&theme=midnight-purple" alt="GitHub Streak"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nowshin1077&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nowshin1077&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
@@ -53,21 +53,28 @@
 ### 📱 My Handles
 
 <p align="center">
-  <a href="https://twitter.com/nowshin1077" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white&color=ff69b4" alt="Twitter" />
-  </a>
+
   <a href="https://www.linkedin.com/in/nowshin1077/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=9c6bff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=663399" alt="LinkedIn" style="height:30px;" />
   </a>
+
   <a href="https://medium.com/@nowshin1077" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%23292929.svg?style=for-the-badge&logo=medium&logoColor=white&color=ff85e5" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=663399" alt="Medium" style="height:30px;" />
   </a>
-  <a href="https://stackoverflow.com/users/13979799/nowshin1077" target="_blank">
-    <img src="https://img.shields.io/badge/stackoverflow-%23F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white&color=ff9dcd" alt="Stack Overflow" />
+  <a href="https://www.reddit.com/user/Nowshin1077/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit&logoColor=663399" alt="Reddit" style="height:30px;" />
+  </a>
+  <a href="https://stackoverflow.com/users/13979799" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-black?style=for-the-badge&logo=stack-overflow&logoColor=663399" alt="Stack Overflow" style="height:30px;" />
+  </a>
+  <a href="https://x.com/nowshin1077" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=663399" alt="X" style="height:30px;" />
   </a>
 </p>
 
-📫 Reach me: nowshin1077@gmail.com
+
+
+📫 Mail: nowshin1077@gmail.com
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
