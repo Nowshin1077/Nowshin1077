@@ -8,9 +8,9 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-| From 🏠 | Undergrad 🎓| Made this to inspire my female classmates 👩‍💻| Some clicks 📸 | 
-| ------------- | ------------- | ------------- | ------------- | 
-|Dhaka,Bangladesh | CSE,BUBT | https://wandt20.wordpress.com/ |  https://www.flickr.com/people/nowshin1077/ | 
+| 🏠 From  | 🎓 Undergrad |  👩‍💻 Repository Log | 
+| ------------- | ------------- | ------------- | 
+|Dhaka,Bangladesh | CSE,BUBT | https://github.com/Nowshin1077/Repository_Log | 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -78,10 +78,10 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-### 💬 Current favourite quote
+### 💬 Quote/thought
 
-> "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. 
-      And the only way to do great work is to love what you do.”   ― Steve Jobs
+> "Humility is the only true Wisdom."
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
