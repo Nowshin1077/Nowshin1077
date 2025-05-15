@@ -8,7 +8,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-| 🏠 From  | 🎓 Undergrad |  ▶️ Repository Log | 😅 Created this to inspire others | 
+| From  |  Undergrad |  Repository Log | Created this to inspire others | 
 | ------------- | ------------- | ------------- | ------------- | 
 |Dhaka,Bangladesh | CSE,BUBT | https://github.com/Nowshin1077/Repository_Log | https://wandt20.wordpress.com/ |
 
